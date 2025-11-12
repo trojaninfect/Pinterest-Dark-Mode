@@ -18,3 +18,4 @@ https://greasyfork.org/en/scripts/550470-pinterest-dark-mode
 - V: 1.4: fixed some profile viewing bugs and UI disappearing bugs :P
 - V: 1.5: added functionality to websites such as uk.pinterest.com
 - V: 1.6: Fixxed the loading bug that was caused by the new pinterest update - 10/20/2025.
+- v: 1.7: fixxed some bugs and added a notice at the top to refresh the page if needed - 11/12/2025
