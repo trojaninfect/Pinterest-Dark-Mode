@@ -19,3 +19,6 @@ https://greasyfork.org/en/scripts/550470-pinterest-dark-mode
 - V: 1.5: added functionality to websites such as uk.pinterest.com
 - V: 1.6: Fixxed the loading bug that was caused by the new pinterest update - 10/20/2025.
 - v: 1.7: fixxed some bugs and added a notice at the top to refresh the page if needed - 11/12/2025
+- v: 1.8: added settings and options with animations (not a published version!)
+- v: 1.9: fixed some bugs and added a dev mode: live css editor and refresh styles button into the dev settings (not a published version!) - 11/12/2025
+- v: 2.0: fixed alot of bugs and fixed dev mode and more bugs! - 11/12/2025
