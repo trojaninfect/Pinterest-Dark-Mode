@@ -5,7 +5,7 @@ I made a tamper monkey / greasy fork extension to make Pinterest dark :p
 It Makes pinterest auto dark :D
 ![Pinterest Dark Mode Preview](https://files.catbox.moe/dxa6sb.png)
 
-https://greasyfork.org/en/scripts/550470-pinterest-dark-mode
+https://greasyfork.org/en/scripts/550470-pinterest-dark-mode-v2-0
 
 
 
